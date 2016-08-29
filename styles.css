@@ -1,0 +1,17 @@
+body{
+
+background-color:#333333;
+color:white;
+text-align:center;
+font-family:jalane_light;
+font-size:300%;
+border:10px solid white;
+padding: 10px;
+margin: 50px;
+
+}
+
+  a:link    {color:blue; background-color:transparent; text-decoration:none}
+  a:visited {color:grey; background-color:transparent; text-decoration:none}
+  a:hover   {color:green; background-color:transparent; text-decoration:underline}
+  a:active  {color:yellow; background-color:transparent; text-decoration:underline}
